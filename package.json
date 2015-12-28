@@ -1,0 +1,23 @@
+{
+  "name": "@awdesh/number-formatter-awdesh",
+  "version": "0.0.1",
+  "description": "A node module for formatting numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awdesh/number-formatter.git"
+  },
+  "author": "Awdesh Sharma <awdesh.sharma1@gmail.com> (http://awdesh.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Awdesh/number-formatter/issues"
+  },
+  "homepage": "https://github.com/Awdesh/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
