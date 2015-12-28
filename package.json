@@ -1,6 +1,6 @@
 {
   "name": "@awdesh/number-formatter-awdesh",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A node module for formatting numbers",
   "main": "index.js",
   "scripts": {
