@@ -1,9 +1,7 @@
-Number Formatter
+Number Formatter  [![Build Status](https://travis-ci.org/Awdesh/number-formatter.svg?branch=master)](https://travis-ci.org/Awdesh/number-formatter)[![Coverage Status](https://coveralls.io/repos/Awdesh/number-formatter/badge.svg?branch=master&service=github)](https://coveralls.io/github/Awdesh/number-formatter?branch=master)
+
 =========
 
-[![Build Status](https://travis-ci.org/Awdesh/number-formatter.svg?branch=master)](https://travis-ci.org/Awdesh/number-formatter)
-
-[![Coverage Status](https://coveralls.io/repos/Awdesh/number-formatter/badge.svg?branch=master&service=github)](https://coveralls.io/github/Awdesh/number-formatter?branch=master)
 
 A small library that adds commas to numbers
 
